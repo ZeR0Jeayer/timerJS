@@ -1,0 +1,47 @@
+body{
+    background-color: #282a36;
+}
+
+h1{
+    color:#f8f8f2;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+h2{
+    color: white;
+    font-weight: bold;
+}
+
+div{
+    text-align: center;
+    padding: 1rem;
+    
+}
+
+button{
+    border: none;
+    width: 70px;
+    height: 30px;
+}
+
+.start{
+    background-color: #50fa7b;
+    color: #f8f8f2;
+    cursor: pointer;
+}
+
+.pause{
+    background-color: #ffb86c;
+    color: #f8f8f2;
+    cursor: pointer;
+}
+
+.stop{
+    background-color: #ff5555;
+    color: #f8f8f2;
+    cursor: pointer;
+}
+
+
+
